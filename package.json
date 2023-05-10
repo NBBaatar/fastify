@@ -1,0 +1,13 @@
+{
+  "name": "fastify",
+  "version": "1.0.0",
+  "description": "NB fastify REST API",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.17.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.1"
+  }
+}
